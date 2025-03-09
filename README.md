@@ -44,7 +44,11 @@ This will create HTML documentation inside the jdoc/ directory.
 
 ## Contribution Guidelines
 Fork the repository.
+
 Create a feature branch (git checkout -b feature-name).
+
 Commit changes (git commit -m "Added new feature").
+
 Push to your branch (git push origin feature-name).
+
 Submit a pull request.
