@@ -17,10 +17,6 @@ The **Expense Tracker** application allows users to log and track their daily ex
 ## 📂 Project Structure
 expense_tracker/ │── src/ │ ├── ExpenseTrackerApp.java # Controller │ ├── ExpenseTrackerView.java # View │ ├── Transaction.java # Model │ ├── InputValidation.java # Validation Helper │── jdoc/ # Javadoc Documentation │── README.md # Project Documentation
 
-markdown
-Copy
-Edit
-
 ## 🛠️ Technologies Used
 - **Java** (Swing for GUI)
 - **Javadoc** for Documentation
