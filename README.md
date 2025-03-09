@@ -32,7 +32,7 @@ javac src/*.java
 java src/ExpenseTrackerApp
 ```
 
-📖 API Documentation
+## API Documentation
 The Javadoc-generated documentation is available in the jdoc/ folder.
 
 To generate the Javadoc documentation, run:
